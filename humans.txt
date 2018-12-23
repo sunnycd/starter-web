@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Lilly
 
 # TECHNOLOGY COLOPHON
 
