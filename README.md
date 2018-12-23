@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 
 ## Deploy
 how to deploy
-
+please fork this repo
 ## Purpose
 
 Sample website with plenty of files for demos
